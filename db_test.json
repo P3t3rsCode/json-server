@@ -1,0 +1,64 @@
+{
+    "team": [
+        {
+            "id": 1,
+            "name": "John Nichols",
+            "position": "Owner",
+            "speciality": "Military History"
+        },
+        {      
+            "id": 2,
+            "name": "Sam Nichols",
+            "position": "Owner",
+            "speciality": "Organisation"
+        },
+        {      
+            "id": 3,
+            "name": "Dominic Burkhalter",
+            "position": "Technical Team Manager",
+            "speciality": "Project Management"
+        },
+        {      
+            "id": 4,
+            "name": "Nicolas Morell",
+            "position": "Senior Backend Developer",
+            "speciality": "Mysql"
+        },
+        {      
+            "id": 5,
+            "name": "Jonathan Kingston-Fear",
+            "position": "Senior Backend Developer",
+            "speciality": "Laravel"
+        },
+        {      
+            "id": 6,
+            "name": "Ravi Pradhan",
+            "position": "Frontend Developer",
+            "speciality": "Javascript"
+        },
+        {      
+            "id": 7,
+            "name": "Ross Hulford",
+            "position": "Senior Frontend Developer",
+            "speciality": "CSS"
+        },
+        {      
+            "id": 8,
+            "name": "Titus Todd",
+            "position": "Head of Maths",
+            "speciality": "Logarithms"
+        },
+        {      
+            "id": 9,
+            "name": "Jenn Linning",
+            "position": "Head of English",
+            "speciality": "Grammar"
+        },
+        {      
+            "id": 10,
+            "name": "Bryden Commons",
+            "position": "Head of Inclusion",
+            "speciality": "HTML"
+        }
+    ]
+}
